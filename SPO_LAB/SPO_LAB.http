@@ -1,0 +1,6 @@
+@SPO_LAB_HostAddress = http://localhost:5191
+
+GET {{SPO_LAB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
